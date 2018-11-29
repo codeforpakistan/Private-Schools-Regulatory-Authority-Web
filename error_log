@@ -1,0 +1,38 @@
+[19-Jul-2018 09:50:07 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:50:11 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:50:21 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:50:49 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:50:52 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:51:00 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:51:49 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:51:52 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:51:53 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:51:53 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:51:53 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:51:54 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:52:10 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:53:20 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:53:23 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:53:23 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:53:23 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:53:29 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:53:31 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:56:18 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:56:32 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:56:36 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:56:41 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:57:18 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:57:47 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:58:04 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:58:12 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 09:59:46 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[19-Jul-2018 10:02:50 UTC] PHP Fatal error:  Cannot redeclare Mobile_apis::file_complain() in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 215
+[13-Oct-2018 11:53:35 Asia/Karachi] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/pakwebde/public_html/psra/system/database/DB_driver.php on line 1432
+[13-Oct-2018 12:17:23 Asia/Karachi] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/pakwebde/public_html/psra/system/database/DB_driver.php on line 1845
+[14-Oct-2018 17:54:20 UTC] PHP Fatal error:  Cannot redeclare Complaints_m::last_seven_days() in /home/pakwebde/public_html/psra/application/models/Complaints_m.php on line 316
+[14-Oct-2018 18:20:06 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/pakwebde/public_html/psra/application/controllers/Complaints.php on line 481
+[14-Oct-2018 18:21:04 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/pakwebde/public_html/psra/application/controllers/Complaints.php on line 482
+[14-Oct-2018 18:21:07 UTC] PHP Fatal error:  Cannot use temporary expression in write context in /home/pakwebde/public_html/psra/application/controllers/Complaints.php on line 482
+[23-Oct-2018 05:36:20 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 184
+[23-Oct-2018 05:36:25 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 184
+[23-Oct-2018 05:36:29 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pakwebde/public_html/psra/application/controllers/Mobile_apis.php on line 184
